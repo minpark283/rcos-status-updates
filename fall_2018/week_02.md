@@ -5,8 +5,7 @@ Played around with the website and found out what features to work on.
 
 ## This Week's Plan
 
-Trying to implment the feature, which is typing in location's name to 
-get the camera to move to that location in the VR view.
+To Look into the code to see what's going on.
 ## Anything Blocking?
 
 Confusion on the technology.

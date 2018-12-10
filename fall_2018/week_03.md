@@ -6,8 +6,10 @@ Fixed few bugs
 
 ## This Week's Plan
 
-Still trying to get to implment the feature, which is typing in location's name to 
-get the camera to move to that location in the VR view.
+Looking into figuring out what to do for the project
+as no directions were given.
+Wants to do something to do with virtual gallery maybe
+so have to start learning about aframe
 ## Anything Blocking?
 
 Confusion on the technology.

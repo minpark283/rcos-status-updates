@@ -1,15 +1,12 @@
 ## Last Week's Accomplishments
 
-Updated the video page so 
-the navigation bar shows up as well.
-Worked little on virtual environment of campus.
-
+Started adding gallery pictures now into the Virtual Environment
+Added lots of pictures
 
 ## This Week's Plan
 
-Still working to make it so navigation around campus is possible
-through arrow keys, through a virtual environment.
-Something to note is that graphics won't look as great.
+Add more pictures, 
+ideally all the picture in the database.
 
 ## Anything Blocking?
 

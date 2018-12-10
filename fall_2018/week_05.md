@@ -6,8 +6,10 @@ Fixed few bugs
 
 ## This Week's Plan
 
+Learned more AFRAME
 Working on new feature,trying to embedded the youtube video link within the website.
 Also allowing the video to be 360 VR/AR View.
+
 ## Anything Blocking?
 
 Confusion on the technology.
